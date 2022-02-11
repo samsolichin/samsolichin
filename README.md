@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**samsolichin/samsolichin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 style='border-bottom: none' align='center'> 
+  Hello! 👋
+  <br>
+  <h2 style='border-bottom: none' align='center'>
+    I'm Sam
+    <br>
+    <br>
+    3rd Year Computer Science Student @UNSW
+    <br>
+    <br>
+  </h2>
+</h1>
