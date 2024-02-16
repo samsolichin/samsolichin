@@ -5,7 +5,10 @@
     I'm Sam
     <br>
     <br>
-    UNSW Computer Science Graduate
+    Software Engineer @Macquarie Group
+    <br>
+    <br>
+    Open to Full-Stack Software Engineering Roles
     <br>
     <br>
   </h2>
